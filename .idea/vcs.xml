@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PythonAnna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Urmaty/Urmaty" vcs="Git" />
   </component>
 </project>
